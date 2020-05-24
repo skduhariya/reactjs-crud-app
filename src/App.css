@@ -27,6 +27,21 @@
 .App-link {
   color: #61dafb;
 }
+.list {
+  text-align: left;
+  max-width: 75%;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 60%;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 60%;
+  margin: auto;
+}
 
 @keyframes App-logo-spin {
   from {
